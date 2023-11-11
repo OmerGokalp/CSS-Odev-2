@@ -17,7 +17,7 @@ body {
 .search {
     width: 1396px;
     height: 80px;
-    background-color: rgb(204, 211, 212);
+    background-color: #eeeeee;
     margin-left: 33px;
     margin-right: auto;
     margin-bottom: 2px;
@@ -39,7 +39,7 @@ body {
     padding: 5px;
     margin-left: 30px;
     margin-right: 1px;
-    background-color: rgb(156, 240, 240);
+    background-color: #7ee5da;
     text-align: center;
     border-style: solid;
     border-color: white;
@@ -53,7 +53,7 @@ body {
     padding: 5px;
     margin-left: 2px;
     margin-right: 2px;
-    background-color: rgb(118, 235, 235);
+    background-color: #70ccc2;
     text-align: center;
     border-style: solid;
     border-color: white;
@@ -67,7 +67,7 @@ body {
     padding: 5px;
     margin-left: 2px;
     margin-right: 10px;
-    background-color: rgb(45, 154, 182);
+    background-color: #62b3aa;
     border-style: solid;
     border-color: white;
     text-align: center;
